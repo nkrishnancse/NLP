@@ -5,6 +5,7 @@ b=docA.split(" ")
 c=docB.split(" ")
 
 print(b)
+print(c)
 
 wordset=set(b).union(set(c))
 
